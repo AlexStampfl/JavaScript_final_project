@@ -11,3 +11,6 @@ This is the final project of my JavaScript class in my fourth semester at Gatewa
 
 ### How to Run the Program
 The easiest way to run the program is with Visual Studio Code. Open the index.html file, right click inside the page, and select 'open with live server' to run the page and it should work as intended.
+
+Here is a link to my site. It is stored on Gateway's server.
+[My Amateur Photography Site in JavaScript](https://prometheus.gtc.edu/~astampfl/152_097_3rma_javascript_hur/final_project/index.html)
